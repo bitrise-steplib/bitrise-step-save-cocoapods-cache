@@ -20,7 +20,7 @@ workflows:
         title: Switch working dir to _tmp
         inputs:
         - path: ./_tmp
-    - cocoapods-install: {}
+    - cocoapods-install: { }
     - path::./:
         title: Execute step
         run_if: "true"
