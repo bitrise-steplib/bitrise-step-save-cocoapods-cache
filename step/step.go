@@ -19,7 +19,7 @@ const (
 	key = `{{ .Arch }}-cocoapods-cache-{{ checksum "**/Podfile.lock" }}`
 
 	// Cached path
-	path = "Pods"
+	path = "**/Pods"
 )
 
 type Input struct {
