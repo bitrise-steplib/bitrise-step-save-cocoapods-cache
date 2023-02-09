@@ -1,4 +1,4 @@
-title: Save Cocoapods Cache (Beta)
+title: Save Cocoapods Cache
 summary: Caches the Pods folder. This Step needs to be used in combination with **Restore Cocoapods Cache**.
 description: |
   Caches dependencies in the Pods folder. This Step needs to be used in combination with **Restore Cocoapods Cache**.
