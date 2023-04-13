@@ -8,7 +8,7 @@ import (
 	"github.com/bitrise-io/go-utils/v2/exitcode"
 	"github.com/bitrise-io/go-utils/v2/log"
 	"github.com/bitrise-io/go-utils/v2/pathutil"
-	"github.com/bitrise-steplib/steps-save-cocoapods-cache/step"
+	"github.com/bitrise-steplib/bitrise-step-save-cocoapods-cache/step"
 )
 
 func main() {
